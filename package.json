@@ -1,0 +1,22 @@
+{
+  "name": "aws-batch-sample-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aw-birdgang/aws-batch-sample-log/issues"
+  },
+  "homepage": "https://github.com/aw-birdgang/aws-batch-sample-log#readme"
+}
